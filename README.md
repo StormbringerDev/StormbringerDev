@@ -43,8 +43,9 @@ Docker • Git • Linux
 
 ### ✨ Planned Projects
 
-- **smartbrain** — Penultimate project of the ZTM complete web dev course. What is it? I don't know yet, but I'm excited to find out
-- **charscroll** — A self-hosted character creator and viewer for Dungeons and Dragons 5th Edition. Still in the planning phase.
+- **SmartBrain** — Penultimate project of the ZTM complete web dev course. What is it? I don't know yet, but I'm excited to find out
+- **Codex Arcanum** — A self-hosted character creator and viewer for Dungeons and Dragons 5th Edition. Still in the planning phase.
+- **Spellbook** — A Rust-based, modular code editor inspired by VS Code. Still in the planning phase.
 
 <br/>
 
