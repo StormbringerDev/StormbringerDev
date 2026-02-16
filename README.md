@@ -12,7 +12,7 @@ Currently focused on learning web dev with goals to learn **Rust** for applicati
 - Currenly learning: **Advanced JS**, **React**, **Node.js** & **PostgreSQL**
 - Taking [The Complete Web Developer in 2026: Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/)
 - How to reach me:  
-  - **Twitter/X**: [@Enderbyte7703](https://x.com/Enderbyte7703)
+  - **Twitter/X**: [@StormbringerDev](https://x.com/StormbringerDev)
   - **Email**: [nightshade7703@proton.me](mailto:nightshade7703@proton.me)
 
 <br/>
