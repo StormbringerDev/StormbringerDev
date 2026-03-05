@@ -9,7 +9,7 @@
 I'm an aspiring software developer from the United States currently learning full-stack web development through [Zero To Mastery](https://zerotomastery.io).  
 Currently focused on learning web dev with goals to learn **Rust** for application development.
 
-- Currenly learning: **Advanced JS**, **React**, **Node.js** & **PostgreSQL**
+- Currenly learning: **TypeScript** and **Next.js**
 - Taking [The Complete Web Developer in 2026: Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/)
 - How to reach me:  
   - **Twitter/X**: [@StormbringerDev](https://x.com/StormbringerDev)
@@ -43,8 +43,8 @@ Docker • Git • Linux
 
 ### ✨ Planned Projects
 
-- **SmartBrain** — Penultimate project of the ZTM complete web dev course. What is it? I don't know yet, but I'm excited to find out
-- **Codex Arcanum** — A self-hosted character creator and viewer for Dungeons and Dragons 5th Edition. Still in the planning phase.
+- **SmartBrain** — Penultimate project of the ZTM complete web dev course. A machine learning application that identifies where faces are in a provided image.
+- **Codex Arcanum** — A self-hosted worldbuilding suite for Dungeons and Dragons 5th Edition. Still in the planning phase.
 - **Spellbook** — A Rust-based, modular code editor inspired by VS Code. Still in the planning phase.
 
 <br/>
