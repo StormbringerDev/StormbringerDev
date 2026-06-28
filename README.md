@@ -6,11 +6,9 @@
 
 ### 👋 About Me
 
-I'm an aspiring software developer from the United States currently learning full-stack web development through [Zero To Mastery](https://zerotomastery.io).  
-Currently focused on learning web dev with goals to learn **Rust** for application development.
+I'm a hobby software developer from the United States who specializes in tools that run on the end user's hardware.
 
 - Currenly learning: **TypeScript** and **Next.js**
-- Taking [The Complete Web Developer in 2026: Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/)
 - How to reach me:  
   - **Twitter/X**: [@StormbringerDev](https://x.com/StormbringerDev)
   - **Email**: [nightshade7703@proton.me](mailto:nightshade7703@proton.me)
@@ -19,11 +17,17 @@ Currently focused on learning web dev with goals to learn **Rust** for applicati
 
 ### 🛠️ Technologies & Tools
 
+**Languages**
+JavaScript • TypeScript
+
 **Frontend**
-React • HTML5 • CSS3 (basic, I know)
+React • HTML5 • CSS3 • Svelte
 
 **Backend**
-Node.js • Express • PostgreSQL
+Node.js • Express • PostgreSQL • SQLite
+
+**Full Stack**
+Next.js • SvelteKit
 
 **Others**
 Docker • Git • Linux
@@ -43,9 +47,7 @@ Docker • Git • Linux
 
 ### ✨ Planned Projects
 
-- **SmartBrain** — Penultimate project of the ZTM complete web dev course. A machine learning application that identifies where faces are in a provided image.
-- **Codex Arcanum** — A self-hosted worldbuilding suite for Dungeons and Dragons 5th Edition. Still in the planning phase.
-- **Spellbook** — A Rust-based, modular code editor inspired by VS Code. Still in the planning phase.
+- **NexusRealm** — Self-hosted suite of tools for D&D 5e, including a character creator, campaign manager, rules glossary, and world wiki creator.
 
 <br/>
 
